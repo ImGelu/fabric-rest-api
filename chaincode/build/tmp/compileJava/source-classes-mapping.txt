@@ -1,0 +1,5 @@
+org/hyperledger/fabric/samples/fabcar/CarContract.java
+ org.hyperledger.fabric.samples.fabcar.CarContract
+ org.hyperledger.fabric.samples.fabcar.CarContract$FabCarErrors
+org/hyperledger/fabric/samples/fabcar/Car.java
+ org.hyperledger.fabric.samples.fabcar.Car
